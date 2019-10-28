@@ -1,0 +1,10 @@
+body {
+  	background-color: lightblue;
+	font-family: Verdana;
+}
+#Title {
+	text-align: center;
+}
+#Explanation {
+	font-size: 1.2em;
+}
